@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #01def7;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;    }
+.card{
+        flex-direction: column;
+        display: flex; 
+        align-items: center;
+        padding: 100px;
+        border-radius: 15px;
+        background-color: #86e500ed;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin-top: 50px; }
+   
+        button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        border-radius: 10px;
+        background-color: #4c5eaf;
+        color: white;
+        border: none;
+        cursor: pointer;
+    
+    }
+     
