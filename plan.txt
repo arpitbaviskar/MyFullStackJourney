@@ -1,0 +1,222 @@
+What cannot happen in 30 days:
+
+Deep mastery of everything
+
+Perfect UI + perfect backend + perfect AI
+
+What can happen in 30 days:
+
+Solid foundations
+
+10–12 strong projects
+
+Job-interview readiness for junior / intern roles
+
+A credible Full-Stack + AI profile
+
+🚀 30-DAY FAST-TRACK PLAN (LOCKED VERSION)
+DAILY COMMITMENT REQUIRED
+
+⏱ 3–5 hours/day
+
+⛔ No skipping days
+
+⛔ No passive watching
+
+✅ Build every day
+
+🗓️ WEEK 1 (Days 1–7): FRONTEND CORE + PORTFOLIO v1
+Goal:
+
+Strong HTML, CSS, Flexbox
+
+Portfolio v1 done
+
+2 frontend mini-projects
+
+Day 1–2
+
+HTML structure
+
+Semantic tags
+
+Portfolio skeleton
+
+Day 3
+
+Flexbox (row, column, gap)
+
+Cards UI
+
+Day 4
+
+Responsive layouts
+
+Media queries
+
+Day 5
+
+Forms & validation
+
+Auth UI (login/signup)
+
+Day 6
+
+Dashboard UI
+
+Reusable components
+
+Day 7
+
+Frontend cleanup
+
+GitHub README polish
+
+🗓️ WEEK 2 (Days 8–14): JAVASCRIPT + REACT FOUNDATIONS
+Goal:
+
+JavaScript confidence
+
+React basics
+
+Portfolio v2 (React)
+
+Day 8
+
+JS logic, DOM, events
+
+Day 9
+
+Async JS, fetch API
+
+Day 10
+
+React components, props
+
+Day 11
+
+State, hooks
+
+Day 12
+
+Routing
+
+Day 13
+
+React portfolio migration
+
+Day 14
+
+Frontend project integration
+
+🗓️ WEEK 3 (Days 15–21): BACKEND + SQL + NETWORKING
+Goal:
+
+Real backend APIs
+
+SQL fundamentals
+
+Auth
+
+Day 15
+
+Node.js + Express
+
+HTTP & REST
+
+Day 16
+
+CRUD APIs
+
+Day 17
+
+SQL (tables, keys, joins)
+
+Day 18
+
+Auth (JWT)
+
+Day 19
+
+File upload service
+
+Day 20
+
+Backend integration with frontend
+
+Day 21
+
+Backend project polish
+
+🗓️ WEEK 4 (Days 22–30): FULL-STACK + AI + DEPLOYMENT
+Goal:
+
+AI projects
+
+Deployment
+
+Resume readiness
+
+Day 22
+
+LLM APIs & prompt basics
+
+Day 23
+
+AI Resume Analyzer
+
+Day 24
+
+AI Chat system
+
+Day 25
+
+Document Q&A system
+
+Day 26
+
+Smart dashboard (AI insights)
+
+Day 27
+
+Deployment (frontend + backend)
+
+Day 28
+
+Portfolio finalization
+
+Day 29
+
+Resume + GitHub audit
+
+Day 30
+
+Mock interviews + applications
+
+📦 OUTPUT AFTER 30 DAYS
+
+You will have:
+
+✔ Portfolio (HTML → React → Full-Stack)
+
+✔ 5 Frontend projects
+
+✔ 3–4 Backend projects
+
+✔ 3 Full-Stack + AI projects
+
+✔ Daily GitHub commits
+
+✔ Interview-ready explanations
+
+This is very strong for 30 days.
+
+🔥 NON-NEGOTIABLE RULES (IMPORTANT)
+
+Daily GitHub push
+
+No tutorial hopping
+
+Build first, optimize later
+
+One evolving portfolio
