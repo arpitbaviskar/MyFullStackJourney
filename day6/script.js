@@ -1,12 +1,3 @@
-function OnClickSubmit() {
-  const nameInput = document.getElementById('nameInput').value;
-  if (nameInput.trim() === '') {
-    alert('Please enter your name!');
-  } else {
-    alert('Welcome, ' + nameInput + '!');
-  }
-}
-
 const projects = [
   {
     title: "Portfolio Website",
@@ -27,7 +18,7 @@ const projects = [
     tech: "CSS Grid"
   }
 ];
-const projectGrid = document.querySelector('.projects-grid');
+const projectsGrid = document.querySelector('.projects-grid');
 projects.forEach(project => {
   const projectCard = document.createElement('div');
   projectCard.className = 'project-card';
